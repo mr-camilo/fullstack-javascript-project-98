@@ -1,0 +1,14 @@
+# Ignorar archivos específicos
+acces.log
+
+# Ignorar directorios completos
+node_modules/
+
+# Ignorar un directorio específico en la raíz del proyecto
+/coverage/
+
+# Ignorar archivos de una extensión en una carpeta específica
+/db/*.sqlite3
+
+# Ignorar todos los archivos .txt dentro de "doc/", en cualquier subdirectorio
+doc/**/*.txt
