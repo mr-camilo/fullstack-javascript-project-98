@@ -1,5 +1,11 @@
 # Proyecto: Juegos mentales
 
+# GitHub Actions
+
+[![Node CI](https://github.com/mr-camilo/fullstack-javascript-project-98/actions/workflows/nodejs.yml/badge.svg)](https://github.com/mr-camilo/fullstack-javascript-project-98/actions)
+
+#
+
 [![hexlet-check](https://github.com/mr-camilo/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/mr-camilo/fullstack-javascript-project-98/actions)
 
 Sumérgete en el complejo ecosistema de JavaScript, aprende a configurar tu entorno de trabajo. Hazte amigo del linter (analizador de calidad de código) y del administrador de dependencias npm. Comprende las diferencias entre git y GitHub, trabaja con repositorios externos. Obtén experiencia en la construcción de la arquitectura de una aplicación completa y en la escritura de código limpio.
