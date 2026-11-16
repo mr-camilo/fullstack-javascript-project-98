@@ -29,7 +29,8 @@ cd fullstack-javascript-project-98
 ## Uso
 
 <!-- Agregue ejemplos de ejecución y una grabación de asciinema: esto es lo que miran los empleadores -->
-Demo de instalación, modo de juego y visualización de victorias y derrotas del juego "Verificación de parodad": https://asciinema.org/a/s4YSOZueWQsjDdhh
+
+Demo de modo de juego y visualización de victorias y derrotas del juego "Verificación de paridad": https://asciinema.org/a/euaUfWHM0omX7Xba
 
 ---
 
