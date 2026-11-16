@@ -1,4 +1,6 @@
 #!/usr/bin/env node
 
-import { even } from "../src/games/even.js";
-even();
+import { generarRonda, instruccion } from "../src/games/even.js";
+import { jugarPartida } from "../src/index.js";
+
+jugarPartida(instruccion, generarRonda);
