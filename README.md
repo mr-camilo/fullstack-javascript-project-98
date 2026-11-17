@@ -31,6 +31,7 @@ cd fullstack-javascript-project-98
 <!-- Agregue ejemplos de ejecución y una grabación de asciinema: esto es lo que miran los empleadores -->
 
 Demo de modo de juego y visualización de victorias y derrotas del juego "Verificación de paridad": https://asciinema.org/a/euaUfWHM0omX7Xba
+Demo de modo de juego y visualización de victorias y derrotas del juego "Operaciones aritméticas": https://asciinema.org/a/3RkEGFqWO6XaVXLw
 
 ---
 

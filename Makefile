@@ -1,7 +1,7 @@
 install: #Ejecutar npm ci
 	npm ci
 
-.PHONY: install brain-games publish lint brain-even
+.PHONY: install brain-games publish lint brain-even brain-calc
 
 brain-games: #Comando corto para ejecutar juego
 	node bin/brain-games.js
@@ -14,3 +14,6 @@ lint: #Ejecutar el linter
 
 brain-even: #Comando corto para ejecutar juego "Verificación de paridad"
 	node bin/brain-even.js
+
+brain-calc: #Comando corto para ejecutar juego "Operaciones aritméticas"
+	node bin/brain-calc.js
