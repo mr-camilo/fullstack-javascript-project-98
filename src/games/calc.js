@@ -1,7 +1,7 @@
 const MAX_ALEATORIO = 50;
 const OPERACIONES_ARITMETICAS = ["+", "-", "*"];
 
-export const instruccion = '¿Cuál es el resultado de la expresión?';
+export const instruccion = "¿Cuál es el resultado de la expresión?";
 
 export const generarRonda = () => {
   const operando1 = Math.floor(Math.random() * MAX_ALEATORIO);

@@ -32,6 +32,7 @@ cd fullstack-javascript-project-98
 
 Demo de modo de juego y visualización de victorias y derrotas del juego "Verificación de paridad": https://asciinema.org/a/euaUfWHM0omX7Xba
 Demo de modo de juego y visualización de victorias y derrotas del juego "Operaciones aritméticas": https://asciinema.org/a/3RkEGFqWO6XaVXLw
+Demo de modo de juego y visualización de victorias y derrotas del juego "Máximo común divisor (MCD)": https://asciinema.org/a/b7gzK07bhiLQHuod
 
 ---
 
